@@ -1,0 +1,5 @@
+{
+  "model": {
+    "connection_url": "mongodb+srv://<password>:ankush@cluster0.tpvyynu.mongodb.net/?retryWrites=true&w=majority"
+  }
+}
